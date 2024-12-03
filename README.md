@@ -35,22 +35,25 @@ cd palindromo
 ## Ejecuta la aplicación:
 - mvn spring-boot:run
 
-Uso
+## Uso
 
-Endpoint: /api/v1/palindromo
+## Endpoint: /api/v1/palindromo
 
-Método: POST
+## Método: POST
 
-Descripción: Analiza si una cadena es un palíndromo y devuelve sus propiedades.
+## Descripción: Analiza si una cadena es un palíndromo y devuelve sus propiedades.
 
-Cuerpo de Ejemplo:
+## Cuerpo de Ejemplo:
+```json
 {
   "palindromo": "anita lava la tina"
 }
-
-Respuesta de Ejemplo:
+```
+## Respuesta de Ejemplo:
+```json
 {
   "lengthCadena": 18,
   "isPalindromo": 1,
   "lengthCaracteresEspeciales": 0
 }
+```
