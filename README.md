@@ -1,18 +1,18 @@
-Palindromo Microservicio
+# Palindromo Microservicio
 
 Este proyecto es un microservicio desarrollado en Java 17 utilizando Spring Boot. Permite analizar una cadena enviada en formato JSON para determinar si es un palíndromo y calcular otras propiedades de la cadena.
 
-Características
+## Características
 
-Validación de Palíndromos: Determina si la cadena de entrada es un palíndromo.
+- **Validación de Palíndromos: Determina si la cadena de entrada es un palíndromo.**
 
-Propiedades Adicionales: Calcula:
+##P ropiedades Adicionales: Calcula:
 
-Longitud total de la cadena.
+- **Longitud total de la cadena.**
 
-Número de caracteres especiales.
+- **Número de caracteres especiales.**
 
-Documentación API: Integración con Swagger para la descripción y prueba de los endpoints.
+## Documentación API: Integración con Swagger para la descripción y prueba de los endpoints.
 
 ## Requisitos
 
