@@ -24,16 +24,16 @@ Este proyecto es un microservicio desarrollado en Java 17 utilizando Spring Boot
 
 - **Configuración del Entorno**
 
-Clona el repositorio:
+## Clona el repositorio:
 
-git clone https://github.com/Maickol96/Palindrome.git
+- git clone https://github.com/Maickol96/Palindrome.git
 cd palindromo
 
-Construye el proyecto con Maven:
-mvn clean install
+## Construye el proyecto con Maven:
+- mvn clean install
 
-Ejecuta la aplicación:
-mvn spring-boot:run
+## Ejecuta la aplicación:
+- mvn spring-boot:run
 
 Uso
 
