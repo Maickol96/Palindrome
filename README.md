@@ -14,15 +14,15 @@ Número de caracteres especiales.
 
 Documentación API: Integración con Swagger para la descripción y prueba de los endpoints.
 
-Requisitos
+## Requisitos
 
-Java 17
+- **Java 17**
 
-Maven 3.6+
+- **Maven 3.6+**
 
-Spring Boot 3.4.0
+- **Spring Boot 3.4.0**
 
-Configuración del Entorno
+- **Configuración del Entorno**
 
 Clona el repositorio:
 
