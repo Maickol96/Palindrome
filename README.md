@@ -27,7 +27,6 @@ Este proyecto es un microservicio desarrollado en Java 17 utilizando Spring Boot
 ## Clona el repositorio:
 
 - git clone https://github.com/Maickol96/Palindrome.git
-cd palindromo
 
 ## Construye el proyecto con Maven:
 - mvn clean install
