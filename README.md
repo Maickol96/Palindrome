@@ -37,11 +37,11 @@ cd palindromo
 
 ## Uso
 
-## Endpoint: /api/v1/palindromo
+- Endpoint: /api/v1/palindromo
 
-## Método: POST
+- Método: POST
 
-## Descripción: Analiza si una cadena es un palíndromo y devuelve sus propiedades.
+- Descripción: Analiza si una cadena es un palíndromo y devuelve sus propiedades.
 
 ## Cuerpo de Ejemplo:
 ```json
