@@ -6,7 +6,7 @@ Este proyecto es un microservicio desarrollado en Java 17 utilizando Spring Boot
 
 - **Validación de Palíndromos: Determina si la cadena de entrada es un palíndromo.**
 
-##P ropiedades Adicionales: Calcula:
+## Propiedades Adicionales: Calcula:
 
 - **Longitud total de la cadena.**
 
